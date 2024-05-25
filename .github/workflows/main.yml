@@ -20,4 +20,4 @@ jobs:
         with:
           context: node-app/
           push: true
-          tages: ji10p/githubactiontest:latest
+          tages: ji10p/github-action-test:latest
